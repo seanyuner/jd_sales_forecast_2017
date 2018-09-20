@@ -29,7 +29,7 @@
 <p align='center'>
    <img src=pics/sklearn23_SI.png>
 </p>
-xgboost开始自己试着简单调了以下参数，后面主要参考[Davut Polat的方案](https://www.kaggle.com/c/bnp-paribas-cardif-claims-management/discussion/19083)，见下图，当然[Aarshay Jain的方案](https://www.analyticsvidhya.com/blog/2016/03/complete-guide-parameter-tuning-xgboost-with-codes-python/)也非常值得参考。
+xgboost开始自己试着简单调了以下参数，后面主要参考[Davut Polat的调参方案](https://www.kaggle.com/c/bnp-paribas-cardif-claims-management/discussion/19083)，见下图，当然[Aarshay Jain的调参方案](https://www.analyticsvidhya.com/blog/2016/03/complete-guide-parameter-tuning-xgboost-with-codes-python/)也非常值得参考。
 <p align='center'>
    <img src=pics/Davut_tuning.png>
 </p>
