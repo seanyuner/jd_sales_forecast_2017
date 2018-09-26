@@ -1,13 +1,11 @@
 # [jd_sales_forecast_2017](https://jdder.jd.com/index/jddDetail?matchId=0890e7edc3c840ea9351e9d736da1e16)
 
 
-*py文件是一个简单的baseline，
+*py文件是一个简单的baseline，*
+*ipynb文件均是比赛中的文件，包括特征提取和不同模型的训练等，*
+*pics文件夹是一些结果可视化等相关图片，*
+*下文是简单记录。*
 
-*ipynb文件均是比赛中的文件，包括特征提取和不同模型的训练等，
-
-*pics文件夹是一些结果可视化等相关图片，
-
-*下文是简单记录。
 
 **一、简单介绍**
 
